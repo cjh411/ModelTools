@@ -1,0 +1,5 @@
+ModelingTools.egg-info/PKG-INFO
+ModelingTools.egg-info/SOURCES.txt
+ModelingTools.egg-info/dependency_links.txt
+ModelingTools.egg-info/not-zip-safe
+ModelingTools.egg-info/top_level.txt
